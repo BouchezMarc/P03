@@ -1,0 +1,16 @@
+[project]
+name = "projet3"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.14"
+dependencies = [
+    "datetime>=6.0",
+    "folium>=0.20.0",
+    "matplotlib>=3.10.7",
+    "numpy>=2.3.5",
+    "pandas>=2.3.3",
+    "readme-md>=2018.11.23",
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.5",
+]
